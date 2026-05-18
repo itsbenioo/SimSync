@@ -1,0 +1,22 @@
+{
+  "id": "more-columns-in-cas",
+  "name": "More Columns in CAS",
+  "creators": ["weerbesu"],
+  "description": "This mod increases the number of columns of the catalog panel in CAS. Three flavors of the mod are available: 3 columns, 4 columns, and 5 columns.",
+  "sources": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/posts/more-columns-in-27751117"
+    }
+  ]
+  "versions": [
+    {
+      "name": "v1.37",
+      "releasedAt": "2026-03-24",
+      "gameVersion": {
+        "min": "1.122.218",
+      },
+      "description": "Updated for game version 1.122.218.",
+    }
+  ]
+}
